@@ -1,5 +1,5 @@
 # Hi there! I'm Emmanuel Ajsivinac
-###Systems Engineering student, backend developer and Network Infrastructure Engineer
+Systems Engineering student, backend developer and Network Infrastructure Engineer
 
 <!--
 **emmanuelajsivinac/EmmanuelAjsivinac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
